@@ -12,21 +12,21 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Make React root take full viewport height */
+
 #root {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
 }
 
-/* Your app wrapper also needs to be a column flex container */
+
 .app {
   flex: 1;
   display: flex;
   flex-direction: column;
 }
 
-/* Footer pinned + full width */
+
 .footer {
   margin-top: auto;
   width: 100%;
