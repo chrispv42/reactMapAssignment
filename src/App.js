@@ -1,5 +1,5 @@
-import ProductList from "./ProductList";
-import Footer from "./Footer";
+import ProductList from "./components/Productlist";
+import Footer from "./components/Footer";
 
 
 function App() {
